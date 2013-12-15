@@ -1,0 +1,7 @@
+* implement the logic while client is online and offline
+in Functional.php
+** isClientOnline()
+** mySendMessage()
+** getOffLineMessage()
+* store the message when the agent act like the client
+
